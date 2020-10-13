@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lemon-nav-website/static/css/main.a851b701.chunk.css",
+    "main.js": "/lemon-nav-website/static/js/main.f9ffc261.chunk.js",
+    "main.js.map": "/lemon-nav-website/static/js/main.f9ffc261.chunk.js.map",
+    "runtime-main.js": "/lemon-nav-website/static/js/runtime-main.fc9ec777.js",
+    "runtime-main.js.map": "/lemon-nav-website/static/js/runtime-main.fc9ec777.js.map",
+    "static/js/2.49818e37.chunk.js": "/lemon-nav-website/static/js/2.49818e37.chunk.js",
+    "static/js/2.49818e37.chunk.js.map": "/lemon-nav-website/static/js/2.49818e37.chunk.js.map",
+    "index.html": "/lemon-nav-website/index.html",
+    "precache-manifest.b8c848e20e9750329d0215d655ebfa14.js": "/lemon-nav-website/precache-manifest.b8c848e20e9750329d0215d655ebfa14.js",
+    "service-worker.js": "/lemon-nav-website/service-worker.js",
+    "static/css/main.a851b701.chunk.css.map": "/lemon-nav-website/static/css/main.a851b701.chunk.css.map",
+    "static/js/2.49818e37.chunk.js.LICENSE.txt": "/lemon-nav-website/static/js/2.49818e37.chunk.js.LICENSE.txt",
+    "static/media/default.jpg": "/lemon-nav-website/static/media/default.9b49099d.jpg",
+    "static/media/image1.jpg": "/lemon-nav-website/static/media/image1.2ee2127e.jpg",
+    "static/media/image2.jpg": "/lemon-nav-website/static/media/image2.0e7efa42.jpg",
+    "static/media/image3.jpg": "/lemon-nav-website/static/media/image3.543437f9.jpg",
+    "static/media/image4.jpg": "/lemon-nav-website/static/media/image4.40351d88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9ec777.js",
+    "static/js/2.49818e37.chunk.js",
+    "static/css/main.a851b701.chunk.css",
+    "static/js/main.f9ffc261.chunk.js"
+  ]
+}
